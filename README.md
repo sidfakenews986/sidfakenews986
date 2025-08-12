@@ -1,18 +1,17 @@
-![dark-mode development](https://media3.giphy.com/media/v1.Y2lkPTdiYzJhNDkwbDFqeDQ0cGVrNmwwd25jenRwemN0MmVma2QxZ3h6aXRzMjl2bHRwbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/moO5j1ytXKCbn0etJ5/giphy.gif)
-
 # Einführung
-Hallo! Ich bin sidfakenews986, ein leidenschaftlicher Entwickler mit Erfahrung in Webtechnologien und Datenanalyse.
+Hallo! Ich bin sidfakenews986, ein leidenschaftlicher Entwickler mit einem Fokus auf Webtechnologien und Open Source.
 
 # Fähigkeiten
-- Webentwicklung (HTML, CSS, JavaScript)
-- Backend-Entwicklung (Node.js, Python)
-- Datenanalyse (SQL, Pandas)
-- Versionskontrolle (Git)
+- JavaScript, Python, Java
+- Webentwicklung (HTML, CSS, React)
+- Datenbankmanagement (SQL, MongoDB)
+- Cloud-Technologien (AWS, Azure)
 
 # Projekte
 - **Projekt A**: Eine Webanwendung zur Verwaltung von Aufgaben.
-- **Projekt B**: Datenanalyse-Tool zur Visualisierung von Verkaufsdaten.
+- **Projekt B**: Eine API für Echtzeit-Datenanalysen.
+- **Projekt C**: Ein Open Source Tool zur Automatisierung von Prozessen.
 
 # Kontakte
 - E-Mail: sidfakenews986@example.com
-- LinkedIn: [LinkedIn-Profil](https://www.linkedin.com/in/sidfakenews986)
+- LinkedIn: [linkedin.com/in/sidfakenews986](https://linkedin.com/in/sidfakenews986)
