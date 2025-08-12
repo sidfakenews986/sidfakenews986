@@ -1,19 +1,33 @@
-# 🚀 Hello, I'm Sid Fake News! 
+# 👨‍💻 sidfakenews986
+
 ![Profile Views](https://komarev.com/ghpvc/?username=sidfakenews986&label=Profile%20Views&color=blue&style=flat)
 
-## 🔒 Highlights
-- **Cybersecurity Enthusiast**: Always updated with the latest trends and techniques in cybersecurity.
-- **Open Source Advocate**: Contributing to various projects that focus on security and privacy.
-- **Lifelong Learner**: Constantly exploring new frameworks and tools to enhance security measures.
+## 🚀 Short Pitch
+A software enthusiast dedicated to creating innovative solutions.
 
-## ⚙️ My Toolkit
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=ffffff)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=ffffff)  ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kali-linux&logoColor=white)  
+## 📜 Summary
+I am a developer with a diverse set of skills, always eager to learn and adapt. My journey has taken me through various programming languages and frameworks, allowing me to build impactful projects.
 
-## 🌍 Get in Touch
-- [GitHub Profile](https://github.com/sidfakenews986)  
-- [Telegram](https://t.me/sidfakenews986)  
+## 🎯 Focus
+Currently, my primary focus is on web development and contributing to open-source projects that improve user experiences.
 
-Thank you for visiting my profile! Let's make the internet a safer place together. 🔐
+## 🛠️ Toolkit
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=FFFFFF) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000000) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=FFFFFF)
 
-<!--fp:1755006113-2117:sidfakenews986:cybersecurity:de-->
+## 🌟 Highlights
+- **Open Source Contributions:** Actively contributing to various projects on GitHub.
+- **Tech Meetups:** Regularly attending and speaking at tech meetups to share knowledge.
+- **Personal Projects:** Building applications that solve real-world problems.
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sidfakenews986&show_icons=true&theme=radical)
+
+## 📫 Contact
+Feel free to reach out:
+- [GitHub](https://github.com/sidfakenews986)
+- [Telegram](https://t.me/sidfakenews986)
+
+<sub>id:17550093</sub>
+
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidfakenews986&layout=compact&theme=dracula" height="130"/> <img src="https://github-readme-stats.vercel.app/api?username=sidfakenews986&show_icons=true&theme=dracula" height="130"/></p>
+<p><img src="https://streak-stats.demolab.com/?user=sidfakenews986&theme=dracula" height="150"/></p>
